@@ -17,7 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className="container mx-auto bg-slate-600 text-slate-50">
         <Header />
         {children}
         <footer>Footer</footer>
