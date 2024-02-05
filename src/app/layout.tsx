@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import Footer from './Footer'
 import Header from './Header'
 import './globals.css'
 
@@ -20,7 +21,7 @@ export default function RootLayout({
       <body className="container mx-auto bg-slate-600 text-slate-50">
         <Header />
         {children}
-        <footer>Footer</footer>
+        <Footer />
       </body>
     </html>
   )
