@@ -22,6 +22,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Install json-server
 
+Install json-server.
+
 ```bash
 npm i json-server
+```
+
+Start server.
+
+```bash
+npm run json-server
 ```
