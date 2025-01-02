@@ -5,9 +5,8 @@ const Article = async ({params}: {params: {id: string}}) => {
   const detailArticle = await getDetailArticle(params.id)
   return (
     <div className="max-w-3x1 mx-auto p-5">
-      {/* 2207863 */}
       <Image
-        src={`https://unsplash.com/collection/1346951/1000x500?sig=${detailArticle.id}`}
+        src="https://picsum.photos/200"
         alt="image"
         width={1280}
         height={300}
