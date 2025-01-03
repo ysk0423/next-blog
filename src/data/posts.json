@@ -1,12 +1,6 @@
 {
   "posts": [
     {
-      "id": "next.js13",
-      "title": "Next.js13を学ぶ",
-      "content": "How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13How to learn Next.js13",
-      "createdAt": "2024/02/22"
-    },
-    {
       "id": "json-server",
       "title": "Json-server",
       "content": "How to install json-server",
