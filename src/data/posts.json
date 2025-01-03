@@ -11,6 +11,18 @@
       "title": "Json-server",
       "content": "How to install json-server",
       "createdAt": "2024/06/07"
+    },
+    {
+      "id": "nextjs13test",
+      "title": "nextjs13タイトル",
+      "content": "nextjsのApprouterはデフォルトでSSRを行います。",
+      "createdAt": "2025-01-03T00:51:16.579Z"
+    },
+    {
+      "id": "test",
+      "title": "test",
+      "content": "test",
+      "createdAt": "2025-01-03T00:54:25.130Z"
     }
   ]
 }
